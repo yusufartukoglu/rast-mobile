@@ -1,2 +1,1 @@
-# rast-mobile
-An app that created for Rast Mobile Frontend Developer hiring process
+Projenin bulunduğu klasörü Visual Studio Code ile açtıktan sonra sırasıyla terminal üzerinden "npm install" ve daha sonra "npm start" komutları ile projeyi kolaylıkla çalıştırabilirsiniz.
